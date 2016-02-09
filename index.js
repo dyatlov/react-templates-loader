@@ -1,4 +1,4 @@
-var reactTemplates = require('react-templates/src/reactTemplates').;
+var reactTemplates = require('react-templates/src/reactTemplates');
 var url = require('url');
 var queryString = require('querystring');
 
